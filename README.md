@@ -1,5 +1,9 @@
 # map_real-time_bus_tracker
-This project builds a real-time bus tracker of the Massachusetts MBTA bus 1 route which travels from MIT to Harvard and shows the stops between MIT and Harvard using a pin.
+Project Description: This project builds a real-time bus tracker of the Massachusetts MBTA bus 1 route which travels from MIT to Harvard and shows the stops between MIT and Harvard using a pin.
+
+How to run: Download the html file provided and save to a file on your system. Drag and drop html file onto a browser window. Click on the button Stops between MIT and Harvard to start the animation. The pin will move across the screen for each bus stop.
+
+Roadmap of future improvements: In the future, I would like to include names for each of the stops and also information on timing that is dynamic and real-time.
 
 License information: MIT License
 
